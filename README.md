@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I am Arnav Sahoo 
+## I am Arnav 👋
 ### a full-stack enthusiast👩‍💻, a cooking connoisseur👩‍🍳 and a chess lover ♟
 
 - 🔭 I’m currently working on the Induskriti full-stack project
