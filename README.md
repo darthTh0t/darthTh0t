@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## This is Arnav Sahoo: a full-stack enthusiast👩‍💻, a cooking connoisseur👩‍🍳 and a chess lover ♟
+## I am Arnav Sahoo 
+### a full-stack enthusiast👩‍💻, a cooking connoisseur👩‍🍳 and a chess lover ♟
 
 - 🔭 I’m currently working on the Induskriti full-stack project
 - 🌱 I’m currently learning **ReactJS**, **Django** and **Flask**
