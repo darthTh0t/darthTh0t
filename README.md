@@ -7,3 +7,4 @@
 - 📫 How to reach me: You can reach me at **sahoo.arnav.2603@outlook.com**
 - 😄 Pronouns: My pronouns are he/him
 - ⚡ Fun fact: **Vim is user friendly than emacs**
+- [![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthTh0t)](https://github.com/anuraghazra/github-readme-stats)
